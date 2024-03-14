@@ -25,3 +25,11 @@ header {
          padding: 0;
          font-size: 24px;
          }
+.escola-imagem{
+   width: 25%;
+}
+.escola{
+   background-image: linear-gradient(#383d58,#00c0eb);
+   color: white;
+   display: flex;
+}
