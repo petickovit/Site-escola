@@ -48,3 +48,16 @@ body{
 .estudante-imagem{
    width: 120px;
 }
+body{
+   font-family: poppins ,sans-serif;
+}
+.estudante-icone{
+   width: 24px;
+}
+.estudante-div{
+   text-align: center;
+}
+.estudante-titulo{
+   text-align: center;
+   padding: 50px 0;
+}
